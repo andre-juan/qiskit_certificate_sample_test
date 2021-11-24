@@ -1,6 +1,6 @@
 # Qiskit certification - sample test solution
 
-In this repository, I present a coded solution to all questions in the Qiskit certification sample test, available [here.](https://www.ibm.com/training/certification/C0010300) In this link you can also find more informations regarding the certification and the exam.
+In this repository, I present a coded solution to all questions in the Qiskit certification sample test, available [here.](https://www.ibm.com/training/certification/C0010300) In this link you can also find more information regarding the certification and the exam.
 
 Each one of the questions (even the "theoretical" ones) is solved using Qiskit. I also present some additional functions (which may be useful for your Qiskit projects!) and additional explorations, following the study guide (also available in the link above).
 
